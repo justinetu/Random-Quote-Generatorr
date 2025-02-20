@@ -1,0 +1,29 @@
+{
+    "quotes": [
+        {
+            "No": "1",
+            "quote": "If you're going through hell, keep going",
+            "author": "Winston Churchill"
+        },
+        {
+            "No": "2",
+            "quote": "The only thing we have to fear is fear itself",
+            "author": " Franklin D. Roosevelt"
+        },
+        {
+            "No": "3",
+            "quote": "Genius is one percent inspiration and ninety-nine percent perspiration",
+            "author": "Thomas Edison"
+        },
+        {
+            "No": "4",
+            "quote": "United we stand, divided we fall",
+            "author": "Patrick Henry"
+        },
+        {
+            "No": "5",
+            "quote": "I've always depended on the kindness of strangers",
+            "author": "Tennessee William"
+        }
+    ]
+}
